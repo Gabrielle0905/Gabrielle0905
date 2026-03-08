@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome to my Github!</h1>
 
 ###
 
@@ -14,7 +14,8 @@
 
 ###
 
-<h3 align="left">I'm from Brazil<br>🔭 I’m currently studying<br>🌱 I’m learning to program<br>👯 I’m looking to collaborate with my student project<br>😄 Pronouns: She/her<br>⚡ Fun fact: I love embroidery and crochet</h3>
+<h3 align="left">My name is Gabrielle Novaes Gonçalves, I`m 20 years ans a 3rd semester student of System Analysis and Development at Fatec in São José dos Campos - SP. 
+I chose this field because I believe in the transformative potential of technology and the importance of innovation for the future of businesses and society.</h3>
 
 ###
 
